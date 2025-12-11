@@ -1,1 +1,4 @@
 F: Forked the project as said and created this file. Now trying to understand what is wanted from us.
+F: Learned Bad Character Rule and now implementing it to create bad character shift table. Used this (https://dwnusbaum.github.io/boyer-moore-demo/) interactive demo to fully understand the implementation. 
+F: While implementing BoyerMoore algorithm, it came to my mind that maybe we can implement our own "creative" algorithm by trying to put what we do as humans into code.
+F: BoyerMoore algoritm fails in "empty pattern" and "both empty" test cases but successfully passes "empty text" test. This is very odd. 
